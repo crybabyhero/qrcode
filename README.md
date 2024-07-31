@@ -1,6 +1,6 @@
 # qrcode
 
-A new Flutter project.
+Aplikasi QR Code
 
 ## Getting Started
 
